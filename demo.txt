@@ -1,2 +1,2 @@
 demo file
-commit from git bash
+commit from bash
